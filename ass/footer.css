@@ -1,0 +1,42 @@
+.nuestros-servicios h3 {
+    font-size: 40px;
+    text-transform: uppercase;
+    color: #fff;
+    text-align: center;
+    letter-spacing: 5px;
+    padding-top: 3rem;
+    
+}
+.nuestros-servicios h4 {
+    color: #fff;
+    letter-spacing: 3px;
+    padding-bottom: 2rem;
+    text-align: center;
+    text-decoration-line: underline;
+}
+.nuestros-servicios p {
+    font-size: 18px;
+    color: #fff;
+    letter-spacing: 1px;
+}
+.nuestros-servicios ul{
+    padding: 2rem;
+    list-style: none;
+    margin-bottom: 0.5rem;
+    letter-spacing: 1px;
+}
+.foto p{
+    width: 30rem;
+}
+.foto {
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    
+    
+}
+.foto img {
+    width: 400px;
+    justify-items: center;
+    margin-left: 2rem;
+}
